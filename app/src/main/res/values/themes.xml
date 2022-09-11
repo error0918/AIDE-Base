@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+    <style name="Theme.App" parent="Theme.AppCompat.DayNight.NoActionBar">
+	</style>
+	
+	<!--<style name="Theme.App.Splash" parent="Theme.App.Base">
+		<item name="colorPrimaryDark">@color/windowBackground</item>
+		<item name="android:navigationBarColor">@color/windowBackground</item>
+		<item name="android:windowBackground">@drawable/splash_background</item>
+	</style>-->
+	
+</resources>

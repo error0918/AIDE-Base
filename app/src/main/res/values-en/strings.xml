@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AIDE Base</string>
+	<string name="app_explanation">Speech text using TTS.</string>
+	
+	<string name="error_happen">Error Happen (%1$s)</string>
+    <string name="copy_toast_message">%1$s copied</string>
+    <string name="copy_toast_message_with_label">%2$s copied to %1$s</string>
+</resources>

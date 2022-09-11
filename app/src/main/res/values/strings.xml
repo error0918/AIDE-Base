@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AIDE Base</string>
+	<string name="app_explanation">TTS를 이용해 텍스트를 읽어줍니다.</string>
+    <string name="maker" translatable="false">TAEYEON</string>
+	
+	<string name="error_happen">에러 발생 (%1$s)</string>
+    <string name="copy_toast_message">%1$s(이)가 복사되었습니다.</string>
+    <string name="copy_toast_message_with_label">%2$s copied to %1$s</string>
+</resources>
